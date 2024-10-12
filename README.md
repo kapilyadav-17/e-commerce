@@ -1,5 +1,5 @@
 # e-commerce
-Simple e-commerce application on microservice architecture for learning purpose
+Simple e-commerce application on microservice architecture for learning purpose. Trying to learn popularly used technology, framework and it's libraries.
 
 microservices and tech stack:
 1. customer - Spring
